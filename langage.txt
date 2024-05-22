@@ -1,0 +1,11 @@
+VAR_GLOBAL {
+}
+
+DECLARATION {
+    INTEGER x;
+}
+
+INSTRUCTION {
+    x = 42;
+    WRITE(x);
+}
